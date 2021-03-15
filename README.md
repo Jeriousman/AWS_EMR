@@ -1,7 +1,7 @@
 # AWS_EMR
 
 This is how to install and use AWS EMR
-https://youtu.be/fC4Y7KNwRzs 
+https://youtu.be/fC4Y7KNwRzs <br />
 https://www.youtube.com/watch?v=qv1ErFMmhC4
 
 
